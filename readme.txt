@@ -1,2 +1,1 @@
-Git is a version control system.
-git reset test
+git learn
